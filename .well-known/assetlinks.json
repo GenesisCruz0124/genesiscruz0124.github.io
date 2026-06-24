@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "tv.pindot.app",
+      "sha256_cert_fingerprints": [
+        "1F:22:07:22:F7:21:EC:C6:BB:E1:B2:49:4C:73:C9:53:A4:BB:54:56:AB:67:D7:C0:85:7F:37:71:E6:DA:D9:DA"
+      ]
+    }
+  }
+]
